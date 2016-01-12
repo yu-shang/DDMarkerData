@@ -1,6 +1,6 @@
 # DDMarkerData
 
-A Homo Sapiens Annotation Database for Diagnose and Detect Markers in Extracellular Circulating
+A Homo Sapiens Annotation Database for Diagnosed and Detected Markers in Extracellular Circulating
 
 A database is called HSAD, IFF, it entails the symbols among the genes, the proteins, the micro RNAs, the isoforms and their sequences by a deductive system.
 
